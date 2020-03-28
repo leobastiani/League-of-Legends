@@ -35,8 +35,9 @@ champ-select:
             30: 30000
             36: 36000
             4: 4000
+            412: 412000
             42: 42000
-            429: 429001
+            429: 429002
             432: 432000
             44: 44000
             45: 45000
@@ -51,6 +52,7 @@ champ-select:
             67: 67010
             69: 69000
             74: 74000
+            8: 8000
             81: 81005
             82: 82000
             83: 83000
@@ -61,7 +63,7 @@ champ-select:
             - 11
             - 4
             400:
-            - 7
+            - 12
             - 4
             420:
             - 7
@@ -73,8 +75,8 @@ champ-select:
             - 7
             - 4
             450:
-            - 14
             - 32
+            - 4
             700:
             - 7
             - 4
@@ -173,6 +175,11 @@ lol-eternals:
     data:
         firstTouchModalSeen: true
     schemaVersion: 0
+lol-home-hubs:
+    data:
+        galaxies-2020:
+            watchedIntro: true
+    schemaVersion: 1
 lol-honor:
     data:
         dayOneSeen: true
@@ -192,7 +199,7 @@ lol-loot:
 lol-notifications:
     data:
         disableEsportsNotifications: false
-        rgmNotificationTimestamp: 1579441353889
+        rgmNotificationTimestamp: 1585255246952
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -259,5 +266,5 @@ parties-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2020-03-08T15:47:32.061Z"
+        lastViewedTimestamp: "2020-03-26T23:00:31.521Z"
     schemaVersion: 1
