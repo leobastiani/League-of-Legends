@@ -29,6 +29,7 @@ champ-select:
             235: 235000
             236: 236004
             238: 238000
+            26: 26000
             268: 268000
             27: 27000
             29: 29007
@@ -37,7 +38,7 @@ champ-select:
             4: 4000
             412: 412000
             42: 42000
-            429: 429002
+            429: 429001
             432: 432000
             44: 44000
             45: 45000
@@ -63,7 +64,7 @@ champ-select:
             - 11
             - 4
             400:
-            - 12
+            - 7
             - 4
             420:
             - 7
@@ -75,7 +76,7 @@ champ-select:
             - 7
             - 4
             450:
-            - 32
+            - 14
             - 4
             700:
             - 7
@@ -106,7 +107,7 @@ clash-tutorial:
         rosterDetailsModalLogoStep: true
         rosterDetailsModalNameTagStep: true
         smsButtonStep: true
-        version: 2
+        version: 1
     schemaVersion: 1
 closed-conversations:
     data:
@@ -121,6 +122,7 @@ custom-spell-selections:
 emotes:
     data:
         newEmotes:
+        - 3441
         - 997
         - 3004
         - 3409
@@ -161,7 +163,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: "allChampions"
-        lastVisitTime: 1583682311984
+        lastVisitTime: 1586122688058
         sortingDropdownKey: "firstLetterAscending"
         unownedFilter: "none"
     schemaVersion: 1
@@ -233,7 +235,7 @@ lol-revivals:
 lol-skins-viewer:
     data:
         groupingDropdownKey: "groupByTier"
-        lastVisitTime: 1582986114594
+        lastVisitTime: 1586122688064
         sortingDropdownKey: "groupIdDescending"
         unownedFilter: "none"
     schemaVersion: 1
@@ -266,5 +268,5 @@ parties-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2020-03-26T23:00:31.521Z"
+        lastViewedTimestamp: "2020-04-10T18:39:52.646Z"
     schemaVersion: 1

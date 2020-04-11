@@ -204,7 +204,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "10.6.4405"
+                            "value": "10.7.9802"
                         },
                         {
                             "name": "CursorOverride",
@@ -345,11 +345,11 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "249"
+                            "value": "254"
                         },
                         {
                             "name": "ItemShopPrevY",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ItemShopResizeHeight",
@@ -547,7 +547,7 @@
                         },
                         {
                             "name": "AmbienceVolume",
-                            "value": "0.7500"
+                            "value": "0.3800"
                         },
                         {
                             "name": "AnnouncerMute",
@@ -555,7 +555,7 @@
                         },
                         {
                             "name": "AnnouncerVolume",
-                            "value": "0.7500"
+                            "value": "0.6400"
                         },
                         {
                             "name": "MasterMute",
@@ -563,7 +563,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.1500"
+                            "value": "0.4500"
                         },
                         {
                             "name": "MusicMute",
@@ -571,7 +571,7 @@
                         },
                         {
                             "name": "MusicVolume",
-                            "value": "0.7500"
+                            "value": "0.3500"
                         },
                         {
                             "name": "PingsMute",
@@ -587,7 +587,7 @@
                         },
                         {
                             "name": "SfxVolume",
-                            "value": "0.7500"
+                            "value": "0.3700"
                         },
                         {
                             "name": "VoiceMute",
@@ -595,7 +595,7 @@
                         },
                         {
                             "name": "VoiceVolume",
-                            "value": "0.7500"
+                            "value": "1.0000"
                         }
                     ]
                 }
@@ -733,15 +733,15 @@
                         },
                         {
                             "name": "evtNormalCastItem4",
-                            "value": "[Shift][4]"
-                        },
-                        {
-                            "name": "evtNormalCastItem5",
                             "value": "[Shift][5]"
                         },
                         {
-                            "name": "evtNormalCastItem6",
+                            "name": "evtNormalCastItem5",
                             "value": "[Shift][6]"
+                        },
+                        {
+                            "name": "evtNormalCastItem6",
+                            "value": "[Shift][7]"
                         },
                         {
                             "name": "evtNormalCastSpell1",
@@ -761,7 +761,7 @@
                         },
                         {
                             "name": "evtNormalCastVisionItem",
-                            "value": ""
+                            "value": "[Shift][4]"
                         },
                         {
                             "name": "evtOnUIMouse4Pan",
@@ -801,7 +801,7 @@
                         },
                         {
                             "name": "evtPlayerPingComeHere",
-                            "value": ""
+                            "value": "[Ctrl][v]"
                         },
                         {
                             "name": "evtPlayerPingMIA",
@@ -989,7 +989,7 @@
                         },
                         {
                             "name": "evtSmartCastItem6",
-                            "value": "[Shift][7]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell1",
