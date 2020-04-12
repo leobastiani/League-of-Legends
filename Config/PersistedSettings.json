@@ -200,7 +200,7 @@
                     "settings": [
                         {
                             "name": "AutoAcquireTarget",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "CfgVersion",
@@ -256,7 +256,7 @@
                         },
                         {
                             "name": "TargetChampionsOnlyAsToggle",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ThemeMusic",
@@ -563,7 +563,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.4500"
+                            "value": "0.2900"
                         },
                         {
                             "name": "MusicMute",
@@ -781,7 +781,7 @@
                         },
                         {
                             "name": "evtPlayerAttackMoveClick",
-                            "value": "[Shift] [Button 2],[x]"
+                            "value": "[Shift] [Button 2]"
                         },
                         {
                             "name": "evtPlayerAttackOnlyClick",
@@ -793,7 +793,7 @@
                         },
                         {
                             "name": "evtPlayerMoveClick",
-                            "value": "[Button 2],[c]"
+                            "value": "[Button 2]"
                         },
                         {
                             "name": "evtPlayerPingAreaIsWarded",
@@ -1213,8 +1213,16 @@
                     "name": "HUDEvents",
                     "settings": [
                         {
+                            "name": "evntHudMoveableSelect",
+                            "value": "[Button 1]"
+                        },
+                        {
                             "name": "evtHoldShowScoreBoard",
                             "value": "[Tab],"
+                        },
+                        {
+                            "name": "evtOnUIMouse1",
+                            "value": "[Button 1],[Ctrl] [Button 1]"
                         },
                         {
                             "name": "evtToggleDeathRecapShowcase",

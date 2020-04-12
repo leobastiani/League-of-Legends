@@ -10,6 +10,7 @@ champ-grid-settings:
 champ-select:
     data:
         skins:
+            103: 103000
             110: 110000
             115: 115000
             117: 117000
@@ -59,6 +60,7 @@ champ-select:
             83: 83000
             86: 86000
             9: 9000
+            98: 98000
         spells:
             1200:
             - 11
@@ -107,7 +109,7 @@ clash-tutorial:
         rosterDetailsModalLogoStep: true
         rosterDetailsModalNameTagStep: true
         smsButtonStep: true
-        version: 1
+        version: 2
     schemaVersion: 1
 closed-conversations:
     data:
@@ -163,14 +165,14 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: "allChampions"
-        lastVisitTime: 1586122688058
+        lastVisitTime: 1586647711292
         sortingDropdownKey: "firstLetterAscending"
         unownedFilter: "none"
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
         groupingDropdownKey: "groupByTier"
-        lastVisitTime: 1575935753500
+        lastVisitTime: 1586647711299
         sortingDropdownKey: "tierDescending"
     schemaVersion: 1
 lol-eternals:
@@ -181,6 +183,8 @@ lol-home-hubs:
     data:
         galaxies-2020:
             watchedIntro: true
+        karma-2020:
+            voteCast: "pt_br_todos_pela_educacao"
     schemaVersion: 1
 lol-honor:
     data:
