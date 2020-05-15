@@ -1,7 +1,7 @@
 career-stats-settings:
     data:
         initialVisited: true
-        welcomedSeason: 9
+        welcomedSeason: 10
     schemaVersion: 1
 champ-grid-settings:
     data:
@@ -11,7 +11,7 @@ champ-select:
     data:
         skins:
             103: 103000
-            110: 110000
+            110: 110009
             115: 115000
             117: 117000
             119: 119001
@@ -23,6 +23,8 @@ champ-select:
             157: 157000
             17: 17000
             18: 18001
+            19: 19000
+            201: 201000
             202: 202000
             21: 21000
             22: 22000
@@ -31,6 +33,7 @@ champ-select:
             236: 236004
             238: 238000
             26: 26000
+            266: 266000
             268: 268000
             27: 27000
             29: 29007
@@ -39,7 +42,7 @@ champ-select:
             4: 4000
             412: 412000
             42: 42000
-            429: 429001
+            429: 429002
             432: 432000
             44: 44000
             45: 45000
@@ -51,17 +54,26 @@ champ-select:
             54: 54000
             55: 55000
             555: 555000
+            6: 6000
+            61: 61008
+            63: 63000
             67: 67010
             69: 69000
             74: 74000
+            78: 78000
             8: 8000
             81: 81005
             82: 82000
             83: 83000
             86: 86000
             9: 9000
+            96: 96000
             98: 98000
+            99: 99000
         spells:
+            1020:
+            - 12
+            - 4
             1200:
             - 11
             - 4
@@ -124,6 +136,10 @@ custom-spell-selections:
 emotes:
     data:
         newEmotes:
+        - 1478
+        - 3461
+        - 3150
+        - 3168
         - 3441
         - 997
         - 3004
@@ -152,6 +168,13 @@ eos-2019-bell-notification_SR_3:
     data:
         notificationShown: true
     schemaVersion: 1
+lol-champ-select:
+    data:
+        favorites:
+            bottom:
+            - 42
+            - 45
+    schemaVersion: 0
 lol-chat:
     data:
         chatFilterDisabled: true
@@ -164,17 +187,19 @@ lol-clash:
     schemaVersion: 1
 lol-collection-champions:
     data:
-        groupingDropdownKey: "allChampions"
-        lastVisitTime: 1586647711292
-        sortingDropdownKey: "firstLetterAscending"
+        groupingDropdownKey: ""
+        lastVisitTime: 1589380409351
+        sortingDropdownKey: ""
         unownedFilter: "none"
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
-        groupingDropdownKey: "groupByTier"
-        lastVisitTime: 1586647711299
-        sortingDropdownKey: "tierDescending"
-    schemaVersion: 1
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1589380409351
+        sortingDropdownKey: "acquisitionDate"
+        unavailableFilter: false
+        unownedFilter: false
+    schemaVersion: 2
 lol-eternals:
     data:
         firstTouchModalSeen: true
@@ -185,6 +210,8 @@ lol-home-hubs:
             watchedIntro: true
         karma-2020:
             voteCast: "pt_br_todos_pela_educacao"
+        pulsefire-2020:
+            watchedIntro: true
     schemaVersion: 1
 lol-honor:
     data:
@@ -193,7 +220,8 @@ lol-honor:
 lol-leagues:
     data:
         betterRewardsDayOneSeen: true
-        last-split-end-notification: 9.300000
+        last-split-end-notification: 10.100000
+        last-split-start-modal: 10.200000
         season-memorial-modal: 9
         season-start-takeover:
             season: 10
@@ -205,7 +233,7 @@ lol-loot:
 lol-notifications:
     data:
         disableEsportsNotifications: false
-        rgmNotificationTimestamp: 1585255246952
+        rgmNotificationTimestamp: 1589552397156
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -239,7 +267,7 @@ lol-revivals:
 lol-skins-viewer:
     data:
         groupingDropdownKey: "groupByTier"
-        lastVisitTime: 1586122688064
+        lastVisitTime: 1589380400821
         sortingDropdownKey: "groupIdDescending"
         unownedFilter: "none"
     schemaVersion: 1
@@ -272,5 +300,5 @@ parties-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2020-04-10T18:39:52.646Z"
+        lastViewedTimestamp: "2020-04-12T23:58:03.121Z"
     schemaVersion: 1

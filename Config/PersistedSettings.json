@@ -200,11 +200,11 @@
                     "settings": [
                         {
                             "name": "AutoAcquireTarget",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "10.7.9802"
+                            "value": "10.10.3039"
                         },
                         {
                             "name": "CursorOverride",
@@ -256,7 +256,7 @@
                         },
                         {
                             "name": "TargetChampionsOnlyAsToggle",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ThemeMusic",
@@ -345,11 +345,11 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "254"
+                            "value": "285"
                         },
                         {
                             "name": "ItemShopPrevY",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ItemShopResizeHeight",
@@ -449,7 +449,7 @@
                         },
                         {
                             "name": "ShowPlayerStats",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowSpellCosts",
