@@ -204,7 +204,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "10.10.3039"
+                            "value": "10.11.2991"
                         },
                         {
                             "name": "CursorOverride",
@@ -345,7 +345,7 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "285"
+                            "value": "310"
                         },
                         {
                             "name": "ItemShopPrevY",
@@ -445,7 +445,7 @@
                         },
                         {
                             "name": "ShowPlayerPerks",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowPlayerStats",
@@ -454,6 +454,10 @@
                         {
                             "name": "ShowSpellCosts",
                             "value": "1"
+                        },
+                        {
+                            "name": "ShowStatsPanel_StatStones",
+                            "value": "0"
                         },
                         {
                             "name": "ShowSummonerNames",

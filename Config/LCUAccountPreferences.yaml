@@ -11,6 +11,7 @@ champ-select:
     data:
         skins:
             103: 103000
+            11: 11000
             110: 110009
             115: 115000
             117: 117000
@@ -24,6 +25,7 @@ champ-select:
             17: 17000
             18: 18001
             19: 19000
+            2: 2000
             201: 201000
             202: 202000
             21: 21000
@@ -32,8 +34,9 @@ champ-select:
             235: 235000
             236: 236004
             238: 238000
+            254: 254000
             26: 26000
-            266: 266000
+            266: 266010
             268: 268000
             27: 27000
             29: 29007
@@ -51,9 +54,11 @@ champ-select:
             516: 516000
             518: 518000
             523: 523000
+            53: 53000
             54: 54000
             55: 55000
             555: 555000
+            59: 59000
             6: 6000
             61: 61008
             63: 63000
@@ -65,6 +70,7 @@ champ-select:
             81: 81005
             82: 82000
             83: 83000
+            85: 85000
             86: 86000
             9: 9000
             96: 96000
@@ -99,7 +105,7 @@ champ-select:
             - 12
             - 14
             900:
-            - 14
+            - 7
             - 4
             920:
             - 31
@@ -187,10 +193,10 @@ lol-clash:
     schemaVersion: 1
 lol-collection-champions:
     data:
-        groupingDropdownKey: ""
-        lastVisitTime: 1589380409351
-        sortingDropdownKey: ""
-        unownedFilter: "none"
+        groupingDropdownKey: "ownership"
+        lastVisitTime: 1591202804776
+        sortingDropdownKey: "alphabetical"
+        unownedFilter: "owned"
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
@@ -300,5 +306,5 @@ parties-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2020-04-12T23:58:03.121Z"
+        lastViewedTimestamp: "2020-05-31T01:30:40.116Z"
     schemaVersion: 1
