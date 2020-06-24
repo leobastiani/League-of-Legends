@@ -204,7 +204,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "10.11.2991"
+                            "value": "10.12.6222"
                         },
                         {
                             "name": "CursorOverride",
@@ -220,7 +220,7 @@
                         },
                         {
                             "name": "EnableLeftMouseButtonAttackMove",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "EnableScreenShake",
@@ -252,7 +252,7 @@
                         },
                         {
                             "name": "SnapCameraOnRespawn",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "TargetChampionsOnlyAsToggle",

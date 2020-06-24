@@ -142,6 +142,8 @@ custom-spell-selections:
 emotes:
     data:
         newEmotes:
+        - 3478
+        - 3462
         - 1478
         - 3461
         - 3150
