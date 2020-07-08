@@ -164,13 +164,13 @@ page-settings:
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1593134833678
+                    lastModified: 1594068389268
                     name: "ADC"
                     order: 0
                     primaryStyleId: 8000
                     selectedPerkIds:
-                    - 8010
-                    - 9111
+                    - 8005
+                    - 8009
                     - 9104
                     - 8017
                     - 8275
