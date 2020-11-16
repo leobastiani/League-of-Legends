@@ -2,9 +2,9 @@ install:
     crash_reporting:
         type: "crashpad"
     game-settings:
-        accountId: 209100988
-        modified: false
-        timestamp: 1594070307362
+        accountId: 209368042
+        modified: true
+        timestamp: 1599155601699
     gameflow-patcher-lock: null
     gameflow-process-info: null
     gameflow-spectate-reconnect-info: null
@@ -16,9 +16,9 @@ install:
         theme: "worlds2019"
         version: "1.60"
     lcu-settings:
-        accountId: 209100988
+        accountId: 209368042
         modified: false
-        timestamp: 1593134889747
+        timestamp: 1604957116038
     licensesAgreedTo:
         4D57BB33457090161FE3126E3DB346F9: null
         548EEEF67B4BD697A29670B9B4CACB3F: null
@@ -29,7 +29,7 @@ install:
         rememberMe: true
         username: "leobastiani"
     npe-splash:
-        enableNewPlayerSplash: false
+        enableNewPlayerSplash: true
     patcher:
         client_migrated: true
         client_patcher_available: true
@@ -46,16 +46,16 @@ install:
             new_client_patcher: 0
             new_game_patcher: 0
     perks-settings:
-        accountId: 209100988
+        accountId: 209368042
         modified: false
-        timestamp: 1594068406613
+        timestamp: 1599154162461
     riotclient-upgrade:
         aux-environment: "live"
         installer-decrypt-key: "ZuV40vGHTGYoUCpx"
         installer-filename: "rc-win.enc"
         seq-install-attempts: 0
-        seq-success-count: 550
-        success-count: 550
+        seq-success-count: 561
+        success-count: 561
         total-install-attempts: 1
         uninstaller-repaired: true
         uninstaller-updated: true

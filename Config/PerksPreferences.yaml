@@ -3,61 +3,61 @@ page-settings:
         pages:
         -   autoModifiedSelections: []
             current: false
-            id: 206476819
+            id: 1831858514
             isActive: false
             isDeletable: true
             isEditable: true
             isValid: true
             lastModified: 0
-            name: "Jhin"
+            name: "Voli"
             order: 0
+            primaryStyleId: 8400
+            selectedPerkIds:
+            - 8439
+            - 8463
+            - 8429
+            - 8444
+            - 8304
+            - 8410
+            subStyleId: 8300
+        -   autoModifiedSelections: []
+            current: false
+            id: 1912546663
+            isActive: false
+            isDeletable: true
+            isEditable: true
+            isValid: true
+            lastModified: 0
+            name: "Nasus"
+            order: 1
+            primaryStyleId: 8100
+            selectedPerkIds:
+            - 8112
+            - 8143
+            - 8138
+            - 8134
+            - 8243
+            - 8210
+            subStyleId: 8200
+        -   autoModifiedSelections: []
+            current: true
+            id: 606779305
+            isActive: false
+            isDeletable: true
+            isEditable: true
+            isValid: true
+            lastModified: 0
+            name: "teemo"
+            order: 2
             primaryStyleId: 8200
             selectedPerkIds:
             - 8214
             - 8226
             - 8234
             - 8237
-            - 8313
-            - 8321
-            subStyleId: 8300
-        -   autoModifiedSelections: []
-            current: false
-            id: 447468043
-            isActive: false
-            isDeletable: true
-            isEditable: true
-            isValid: true
-            lastModified: 0
-            name: "Draven"
-            order: 1
-            primaryStyleId: 8300
-            selectedPerkIds:
-            - 8359
-            - 8304
-            - 8345
-            - 8410
-            - 8126
-            - 8138
+            - 8135
+            - 8139
             subStyleId: 8100
-        -   autoModifiedSelections: []
-            current: true
-            id: 267612291
-            isActive: false
-            isDeletable: true
-            isEditable: true
-            isValid: true
-            lastModified: 0
-            name: "NA HORA"
-            order: 2
-            primaryStyleId: 8000
-            selectedPerkIds:
-            - 8021
-            - 9111
-            - 9104
-            - 8014
-            - 8234
-            - 8236
-            subStyleId: 8200
         -   autoModifiedSelections: []
             current: false
             id: 54
@@ -71,8 +71,8 @@ page-settings:
             primaryStyleId: 8300
             selectedPerkIds:
             - 8326
-            - 8313
             - 8345
+            - 8321
             - 8347
             - 8451
             - 8430
@@ -147,7 +147,7 @@ page-settings:
             primaryStyleId: 8400
             selectedPerkIds:
             - 8437
-            - 8473
+            - 8242
             - 8430
             - 8451
             - 8224
@@ -155,142 +155,160 @@ page-settings:
             subStyleId: 8200
         perShardPerkBooks:
             br1:
-                currentPageId: 206476819
+                currentPageId: 53
                 pages:
                 -   autoModifiedSelections: []
-                    current: true
-                    id: 206476819
+                    current: false
+                    id: 1831858514
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1594068389268
-                    name: "ADC"
+                    lastModified: 1599154108016
+                    name: "talon"
                     order: 0
                     primaryStyleId: 8000
                     selectedPerkIds:
-                    - 8005
+                    - 8010
                     - 8009
-                    - 9104
-                    - 8017
+                    - 9105
+                    - 8014
+                    - 8143
+                    - 8105
+                    - 5008
+                    - 5008
+                    - 5003
+                    subStyleId: 8100
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 606779305
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isValid: true
+                    lastModified: 1599086431046
+                    name: "ORNN"
+                    order: 2
+                    primaryStyleId: 8300
+                    selectedPerkIds:
+                    - 8351
+                    - 8304
+                    - 8321
+                    - 8347
+                    - 8139
+                    - 8134
+                    - 5008
+                    - 5008
+                    - 5003
+                    subStyleId: 8100
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 644424539
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isValid: true
+                    lastModified: 1590966924701
+                    name: "Blitz"
+                    order: 3
+                    primaryStyleId: 8100
+                    selectedPerkIds:
+                    - 8112
+                    - 8139
+                    - 8138
+                    - 8135
                     - 8275
-                    - 8236
+                    - 8234
                     - 5005
                     - 5008
                     - 5002
                     subStyleId: 8200
                 -   autoModifiedSelections: []
                     current: false
-                    id: 216902499
+                    id: 1731866095
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1592710569555
-                    name: "Twitch"
-                    order: 2
-                    primaryStyleId: 8200
+                    lastModified: 1591482645436
+                    name: "riven"
+                    order: 3
+                    primaryStyleId: 8000
                     selectedPerkIds:
-                    - 8229
-                    - 8226
-                    - 8210
-                    - 8237
-                    - 8009
+                    - 8010
+                    - 9111
+                    - 9105
                     - 8014
+                    - 8313
+                    - 8347
                     - 5005
                     - 5008
                     - 5002
-                    subStyleId: 8000
-                -   autoModifiedSelections: []
-                    current: false
-                    id: 267612291
-                    isActive: false
-                    isDeletable: true
-                    isEditable: true
-                    isValid: true
-                    lastModified: 1591885022439
-                    name: "NA HORA"
-                    order: 2
-                    primaryStyleId: 8100
-                    selectedPerkIds:
-                    - 9923
-                    - 8139
-                    - 8138
-                    - 8135
-                    - 8009
-                    - 9103
-                    - 5005
-                    - 5008
-                    - 5002
-                    subStyleId: 8000
+                    subStyleId: 8300
         settings:
             gameplayPatchVersionSeen: "9.23"
             gameplayUpdatedPerksSeen:
             - 8358
             gridModeEnabled: false
-            showLongDescriptions: true
+            showLongDescriptions: false
             showPresetPages: true
     schemaVersion: 5
 pages:
--   autoModifiedSelections: []
-    current: false
+-   current: false
     formatVersion: 4
-    id: 206476819
+    id: 1831858514
     isActive: false
     isDeletable: true
     isEditable: true
     isValid: true
-    name: "Jhin"
-    order: 0
+    name: "Voli"
+    order: 5
+    primaryStyleId: 8400
+    selectedPerkIds:
+    - 8439
+    - 8463
+    - 8429
+    - 8444
+    - 8304
+    - 8410
+    subStyleId: 8300
+-   current: false
+    formatVersion: 4
+    id: 1912546663
+    isActive: false
+    isDeletable: true
+    isEditable: true
+    isValid: true
+    name: "Nasus"
+    order: 6
+    primaryStyleId: 8100
+    selectedPerkIds:
+    - 8112
+    - 8143
+    - 8138
+    - 8134
+    - 8243
+    - 8210
+    subStyleId: 8200
+-   current: true
+    formatVersion: 4
+    id: 606779305
+    isActive: false
+    isDeletable: true
+    isEditable: true
+    isValid: true
+    name: "teemo"
+    order: 7
     primaryStyleId: 8200
     selectedPerkIds:
     - 8214
     - 8226
     - 8234
     - 8237
-    - 8313
-    - 8321
-    subStyleId: 8300
--   autoModifiedSelections: []
-    current: false
-    formatVersion: 4
-    id: 447468043
-    isActive: false
-    isDeletable: true
-    isEditable: true
-    isValid: true
-    name: "Draven"
-    order: 1
-    primaryStyleId: 8300
-    selectedPerkIds:
-    - 8359
-    - 8304
-    - 8345
-    - 8410
-    - 8126
-    - 8138
+    - 8135
+    - 8139
     subStyleId: 8100
--   autoModifiedSelections: []
-    current: true
-    formatVersion: 4
-    id: 267612291
-    isActive: false
-    isDeletable: true
-    isEditable: true
-    isValid: true
-    name: "NA HORA"
-    order: 2
-    primaryStyleId: 8000
-    selectedPerkIds:
-    - 8021
-    - 9111
-    - 9104
-    - 8014
-    - 8234
-    - 8236
-    subStyleId: 8200
--   autoModifiedSelections: []
-    current: false
+-   current: false
     formatVersion: 4
     id: 54
     isActive: false
@@ -302,14 +320,13 @@ pages:
     primaryStyleId: 8300
     selectedPerkIds:
     - 8326
-    - 8313
     - 8345
+    - 8321
     - 8347
     - 8451
     - 8430
     subStyleId: 8400
--   autoModifiedSelections: []
-    current: false
+-   current: false
     formatVersion: 4
     id: 53
     isActive: false
@@ -327,8 +344,7 @@ pages:
     - 8138
     - 8105
     subStyleId: 8100
--   autoModifiedSelections: []
-    current: false
+-   current: false
     formatVersion: 4
     id: 52
     isActive: false
@@ -346,8 +362,7 @@ pages:
     - 8234
     - 8236
     subStyleId: 8200
--   autoModifiedSelections: []
-    current: false
+-   current: false
     formatVersion: 4
     id: 51
     isActive: false
@@ -365,8 +380,7 @@ pages:
     - 9111
     - 8014
     subStyleId: 8000
--   autoModifiedSelections: []
-    current: false
+-   current: false
     formatVersion: 4
     id: 50
     isActive: false
@@ -378,7 +392,7 @@ pages:
     primaryStyleId: 8400
     selectedPerkIds:
     - 8437
-    - 8473
+    - 8242
     - 8430
     - 8451
     - 8224
@@ -386,5 +400,5 @@ pages:
     subStyleId: 8200
 settings:
     gridModeEnabled: false
-    showLongDescriptions: true
+    showLongDescriptions: false
     showPresetPages: true
